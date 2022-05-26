@@ -1,0 +1,21 @@
+:root {
+
+  --black: #000000;
+  --red: #dc143c;
+  --color1: black;
+  --color2: red;
+
+
+  --h1: 10rem;
+  --h2: 6rem;
+  --h3: 4rem;
+  --h4: 2rem;
+  --h5: 1rem;
+}
+
+h1 {
+  font-size: var(--h1);
+}
+h2 {
+  font-size: var(--h2);
+}
